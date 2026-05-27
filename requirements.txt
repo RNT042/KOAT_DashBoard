@@ -1,5 +1,7 @@
 streamlit
-streamlit-gsheets
-gspread
-google-auth
 pandas
+plotly
+st-gsheets-connection
+requests
+extra-streamlit-components
+numpy
