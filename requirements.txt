@@ -1,6 +1,5 @@
 streamlit
-streamlit-gsheets==0.0.8
+streamlit-gsheets
 gspread
 google-auth
 pandas
-openpyxl
